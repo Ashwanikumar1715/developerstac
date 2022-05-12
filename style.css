@@ -669,7 +669,17 @@ footer span a:hover{
     .services .serv-content .card{
         width: 100%;
     }
-}
+        .about .about-content .right .text .typing-2{
+        font-size: 18px;
+      }  
+    }
+    @media (max-width: 500px){
+        .about .about-content .right .text .typing-2{
+            font-size: 22px;
+            
+        }
+    }
+
 @media (max-width: 426px){
     .about .about-content .left img{
         height: 300px;
