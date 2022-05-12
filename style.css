@@ -655,7 +655,7 @@ footer span a:hover{
 
 @media (max-width: 690px) {
     .max-width{
-        padding: 0 23px;
+        padding: 10px 10px;
     }
     .home .home-content .text-2{
         font-size: 60px;
@@ -668,6 +668,14 @@ footer span a:hover{
     }
     .services .serv-content .card{
         width: 100%;
+    }
+}
+@media (max-width: 426px){
+    .about .about-content .left img{
+        height: 300px;
+        width: 300px;
+        object-fit: cover;
+        border-radius: 208px;
     }
 }
 
