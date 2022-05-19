@@ -403,7 +403,7 @@ section .title::after{
 /* teams section styling */
 
 .teams .title::after{
-    content: "who with me";
+    content: "my projects collection";
 }
 .teams .carousel .card{
     background:rgba(128, 128, 128, 0.309);
