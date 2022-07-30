@@ -11,20 +11,6 @@ html{
     scroll-behavior: smooth;
 }
 
-/* custom scroll bar */
-/* ::-webkit-scrollbar {
-    width: 10px;
-}
-::-webkit-scrollbar-track {
-    background: #f1f1f1;
-}
-::-webkit-scrollbar-thumb {
-    background: #888;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: #555;
-} */
 
 /* all similar content styling codes */
 section{
@@ -403,7 +389,7 @@ section .title::after{
 /* teams section styling */
 
 .teams .title::after{
-    content: "my projects collection";
+    content: "my collection";
 }
 .teams .carousel .card{
     background:rgba(128, 128, 128, 0.309);
